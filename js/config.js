@@ -1,7 +1,7 @@
 'use strict';
 
 // Color Match Pond — Keep CACHE in sw.js in sync: 'color-match-pond-' + GAME_VERSION
-const GAME_VERSION = '1.0.000';
+const GAME_VERSION = '1.0.001';
 const GAME_VERSION_LABEL = 'v' + GAME_VERSION;
 const GAME_NAME = 'Color Match Pond';
 
