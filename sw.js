@@ -1,5 +1,5 @@
 // Color Match Pond — bump with GAME_VERSION in js/config.js
-const CACHE = 'color-match-pond-1.0.001';
+const CACHE = 'color-match-pond-1.0.002';
 
 const ASSETS = [
   './',
